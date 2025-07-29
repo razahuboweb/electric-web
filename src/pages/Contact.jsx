@@ -30,7 +30,7 @@ function Contact() {
   return (
     <div>
       <Hero
-        backgroundImage="../../public/image/contact2.jpg"
+        backgroundImage="/image/contact2.jpg"
         overlayColor="#081D30"
         overlayOpacity={0.7}
         headingText="Conversations make minds connect and opportunities accessible."

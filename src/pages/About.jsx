@@ -23,7 +23,7 @@ const About = () => {
     <div className="w-full">
       {/* Hero Section */}
       <Hero
-        backgroundImage="../../public/image/about.jpg"
+        backgroundImage="/image/about.jpg"
         overlayColor="#081D30"
         overlayOpacity={0.7}
         headingText="Innovation Meets Precision at STED"

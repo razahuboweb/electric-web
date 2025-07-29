@@ -30,7 +30,7 @@ function Careers() {
   return (
     <div>
       <Hero
-        backgroundImage="../../public/image/city.jpg"
+        backgroundImage="/image/city.jpg"
         overlayColor="#081D30"
         overlayOpacity={0.7}
         headingText="Ethics and empathy make perfect catalyst for success."

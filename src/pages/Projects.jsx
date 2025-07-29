@@ -33,7 +33,7 @@ function Projects() {
   return (
     <div>
       <Hero
-        backgroundImage="../../public/image/projects.jpg"
+        backgroundImage="/image/projects.jpg"
         overlayColor="#081D30"
         overlayOpacity={0.7}
         headingText="Trusted by the Kingdom's Most Prominent Projects"

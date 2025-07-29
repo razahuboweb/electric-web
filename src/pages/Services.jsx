@@ -68,7 +68,7 @@ function Services() {
   return (
     <div>
       <Hero
-        backgroundImage="../../public/image/service.jpg"
+        backgroundImage="/image/service.jpg"
         overlayColor="#081D30"
         overlayOpacity={0.7}
         headingText="Fulfillment is qualification, learning and commitment combined."
