@@ -36,7 +36,7 @@ export default function Section() {
           viewport={{ once: true }}
         >
           <img
-            src="../../public/image/machine.jpg"
+            src="/image/machine.jpg"
             alt="Innovation"
             className="w-full h-auto rounded-lg shadow-lg"
           />

@@ -22,7 +22,7 @@ const Navbar = () => {
         <div className="flex items-center gap-6">
           <Link to="/">
             <img
-              src="../../public/image/nexphase1.png"
+              src="/image/nexphase1.png"
               alt="Logo"
               className="h-50 w-52 object-contain"
             />

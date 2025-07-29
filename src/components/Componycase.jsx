@@ -2,11 +2,11 @@ import React, { useEffect, useState } from "react";
 import { ChevronLeft, ChevronRight } from "lucide-react";
 
 const companies = [
-  "../../public/image/logo 1.png", "../../public/image/logo 2.png", "../../public/image/logo3.png", "../image/logo 4.png",
-  "../image/logo 5.png", "../../public/image/logo 6.png", "../image/logo 7.png", "../image/logo 8.png",
+  "/image/logo 1.png", "/image/logo 2.png", "/image/logo3.png", "../image/logo 4.png",
+  "../image/logo 5.png", "/image/logo 6.png", "../image/logo 7.png", "../image/logo 8.png",
   "../image/logo 9.png", "../image/logo 10.png", "../image/logo 11.png", "../image/logo 12.png",
-  "../../public/image/logo 13.png", "../image/logo 14.png", "../image/logo 15.png", "../image/logo16.png",
-  "../../public/image/logo 17_files", "../image/logo 18.png", "../image/logo 19.png", "../image/logo 20.png"
+  "/image/logo 13.png", "../image/logo 14.png", "../image/logo 15.png", "../image/logo16.png",
+  "/image/logo 17_files", "../image/logo 18.png", "../image/logo 19.png", "../image/logo 20.png"
 ];
 
 const Companycase = () => {

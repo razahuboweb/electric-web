@@ -44,7 +44,7 @@ const Faq2 = () => {
         {/* Image */}
         <div className="w-full md:w-1/2">
           <img
-            src="../../public/image/tower.jpg"
+            src="/image/tower.jpg"
             alt="FAQ"
             className="w-full h-auto rounded-lg shadow-lg"
           />

@@ -42,7 +42,7 @@ const Home = () => {
       <div className="relative h-[100vh] overflow-hidden">
         <video
           className="absolute top-0 left-0 w-full h-full object-cover z-0"
-          src="../../public/image/bg1.mp4"
+          src="/image/bg1.mp4"
           autoPlay
           loop
           muted
@@ -194,7 +194,7 @@ const Home = () => {
             viewport={{ once: true }}
           >
             <img
-              src="../../public/image/machine.jpg"
+              src="/image/machine.jpg"
               alt="Vision"
               className="w-full h-auto rounded-lg shadow-lg"
             />

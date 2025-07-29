@@ -20,7 +20,7 @@ const Footer = () => {
         <div className="md:col-span-2 space-y-6">
            <div className="flex items-center gap-6">
           <img
-            src="../../public/image/nexphase1.png"
+            src="/image/nexphase1.png"
             alt="Logo"
             className="h-32 w-40"
           />

@@ -52,7 +52,7 @@ export default function White() {
           viewport={{ once: true }}
         >
           <img
-            src="../../public/image/volt.png"
+            src="/image/volt.png"
             alt="About"
             className="w-full h-auto rounded-lg shadow-lg"
           />
